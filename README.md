@@ -1,2 +1,2 @@
 # Summer-Analytics
-Solutions of the assignments I solved on summer analytics
+The Capstone Kaggle Project and assignments done as part of Summer Analytics organized by Consulitng & Analytics Club, IIT Guwahati
